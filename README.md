@@ -10,9 +10,9 @@ Clone repository https://github.com/Fiszy/Real-time-One-to-one-and-Group-Chat-Ap
     https://dashboard.pusher.com/accounts/sign_up
     
     #Screenshot
-    ![REAL CHAT](screenshot/groupchat.png?raw=true "Title")
-    <img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+    ![REAL CHAT](../master/screenshot/groupchat.png?raw=true "Title")
+    <br>
     
-      ![REAL CHAT](screenshot/private.png?raw=true "Title")
+      ![REAL CHAT](../master/screenshot/private.png?raw=true "Title")
     
     
