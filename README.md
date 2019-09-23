@@ -19,7 +19,7 @@ Clone repository https://github.com/Fiszy/Real-time-One-to-one-and-Group-Chat-Ap
 
 ![Optional Text](../master/screenshot/groupchat.png))<br>
 
-![Optional Text](../master/screenshot/private.png))<br>
+![Optional Text](../master/screenshot/private.png)<br>
 
 
 ## Contributing
