@@ -11,6 +11,7 @@ Clone repository https://github.com/Fiszy/Real-time-One-to-one-and-Group-Chat-Ap
     
     #Screenshot
     ![REAL CHAT](screenshot/groupchat.png?raw=true "Title")
+    <img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
     
       ![REAL CHAT](screenshot/private.png?raw=true "Title")
     
