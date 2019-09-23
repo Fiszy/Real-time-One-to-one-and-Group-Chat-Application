@@ -10,9 +10,10 @@ Clone repository https://github.com/Fiszy/Real-time-One-to-one-and-Group-Chat-Ap
     https://dashboard.pusher.com/accounts/sign_up
     
     #Screenshot
-    ![REAL CHAT](../master/screenshot/groupchat.png?raw=true "Title")
+    ![REAL CHAT](../master/screenshot/groupchat.png)
     <br>
+
     
-      ![REAL CHAT](../master/screenshot/private.png?raw=true "Title")
+      ![REAL CHAT](../master/screenshot/private.png)
     
     
